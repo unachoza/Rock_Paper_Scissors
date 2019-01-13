@@ -1,3 +1,5 @@
+alert("connected!")
+
 let userInput = 'scissors'
  userInput = userInput.toLowerCase()
 
